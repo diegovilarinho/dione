@@ -1,0 +1,6 @@
+# Application
+.env
+
+# Npm
+node_modules
+npm-error.log

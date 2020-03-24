@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93db894e-eed2-4a69-8769-e6965f022879" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZYK25wJK1nxeWaENEXyAIC7mHN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.13.1/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93db894e-eed2-4a69-8769-e6965f022879" name="Default Changelist" comment="" />
+      <created>1585010376432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585010376432</updated>
+      <workItem from="1585010379396" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1585011277040">
+      <screen x="-165" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/-165.-1057.1920.1057/0.23.1680.981@-165.-1057.1920.1057" timestamp="1585011277040" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1585011277038">
+      <screen x="-165" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.center/-165.-1057.1920.1057/0.23.1680.981@-165.-1057.1920.1057" timestamp="1585011277038" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1585011277037">
+      <screen x="-165" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.left/-165.-1057.1920.1057/0.23.1680.981@-165.-1057.1920.1057" timestamp="1585011277037" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1585011277039">
+      <screen x="-165" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.right/-165.-1057.1920.1057/0.23.1680.981@-165.-1057.1920.1057" timestamp="1585011277039" />
+  </component>
+</project>
